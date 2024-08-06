@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.345), rgba(0, 0, 0, 0.367)) , url(https://github.com/abhishekabhiRaj/netflix-clone/blob/main/Netflix/images/login-bg.jpeg?raw=true);
+    height: 100vh;
+    
+}
+.login-top{
+    width: 100vw;
+    height: 70px;
+    background-color:rgba(0,0,0,0);
+    
+ 
+
+}
+.login-top img{
+    width : 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+   
+    
+}
+.login-box{
+    background-color: #0000008a;
+    width: 430px;
+    height: 630px;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.small-text{
+    font-size: 13px;
+}
+
+.form-control{
+    box-shadow: none !important;
+}
+
